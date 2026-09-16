@@ -1,0 +1,6 @@
+# GPU 环境可改为: paddlepaddle-gpu>=2.4.0
+paddlepaddle>=2.4.0
+paddlenlp>=2.4.0
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.5.0
