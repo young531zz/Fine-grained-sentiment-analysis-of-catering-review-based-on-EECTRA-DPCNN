@@ -3,7 +3,7 @@
 本仓库整理自百度飞桨 AI Studio 实验，对应论文：
 
 > Cheng, Y., & Wang, L. *Fine Grained Sentiment Analysis of Catering Reviews Based on ELECTRA-DPCNN Model*.  
-> 全文见 [`paper/Fine-grained-sentiment-analysis-ELECTRA-DPCNN.pdf`](paper/Fine-grained-sentiment-analysis-ELECTRA-DPCNN.pdf)
+> 全文见[ [`paper/Fine-grained-sentiment-analysis-ELECTRA-DPCNN.pdf`](paper/Fine-grained-sentiment-analysis-ELECTRA-DPCNN.pdf)](https://doi.org/10.1117/12.3091976)
 
 任务是**方面级情感分析（Aspect-Based Sentiment Analysis, ABSA）**：给定一条餐饮评论和一个预定义方面（如 `Food#Taste`、`Service#Hospitality`），判断该评论在**这一方面**上的情感极性。
 
